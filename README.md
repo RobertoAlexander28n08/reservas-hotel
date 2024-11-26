@@ -1,1 +1,3 @@
 # reservas-hotel
+El objetivo de la consigna es desarrollar utilizando los parámetros de la programación orientada a objetos en lenguaje Java. Desarrollando un programa que gestione las reservas de un hotel, para esto definimos sus clases e implementamos funcionalidades como: crear una nueva reserva, consultar la disponibilidad de la habitación, verificar la edad del cliente. 
+Asegurándonos de aplicar los conceptos aprendidos acerca de encapsulamiento, herencia, polimorfismo y abstracción, al finalizar con el desarrollo del programa se verificó su funcionamiento mediante el desarrollo de Pruebas y la presentación de evidencia.
